@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "bill_count": {
+      "17-06-2024": 21,
+      "18-07-2024": 3
+    }
+  },
+  "products": {
+    "product_id_1": {
+      "barcode": "123456789012",
+      "name": "Dog Food",
+      "price": 150
+    },
+    "product_id_2": {
+      "barcode": "234567890123",
+      "name": "Cat Food",
+      "price": 250
+    },
+    "product_id_3": {
+      "barcode": "345678901234",
+      "name": "Fish Food",
+      "price": 30
+    },
+    "product_id_4": {
+      "barcode": "456789012345",
+      "name": "Bird Seed",
+      "price": 20
+    }
+  },
+  "purchases": {
+    "-O2Qw1x0cypM8iHgoDKb": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "sid",
+      "discount": 0,
+      "finalAmount": 5000,
+      "items": [
+        {
+          "barcode": "234567890123",
+          "name": "Cat Food",
+          "price": 500,
+          "quantity": 2
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-22T19:34:29.442Z",
+      "totalPrice": 500
+    },
+    "-O2R-qgmAc2F3TYg02Ft": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "sid",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-22T19:55:29.970Z",
+      "totalPrice": 30
+    },
+    "-O2R0wyQ0UbUa9WIdwnt": {
+      "customerEmail": "ok",
+      "customerName": "Siddhesh ",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        },
+        {
+          "barcode": "234567890123",
+          "name": "Cat Food",
+          "price": 250,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "upi",
+      "purchaseDate": "2024-07-22T20:00:17.819Z",
+      "totalPrice": 280
+    },
+    "-O2RJ58Tcf2AchZyZ7bK": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-22T21:19:33.983Z",
+      "totalPrice": 30
+    },
+    "-O2VbE4eW0sgZS6EyGtY": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discountAmount": "3.00",
+      "finalAmount": "27.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T17:21:40.202Z",
+      "totalPrice": 30
+    },
+    "-O2VbU_7uRmJn-RRqgzi": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discountAmount": "9.00",
+      "finalAmount": "5000.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T17:22:47.753Z",
+      "totalPrice": 30
+    },
+    "-O2VbzPvulH-0MRMIkoY": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discountAmount": "0.00",
+      "finalAmount": "30.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T17:24:58.171Z",
+      "totalPrice": 30
+    },
+    "-O2Vjm8y_pwme4yicKCD": {
+      "customerEmail": "ok",
+      "customerName": "Siddhesh ",
+      "discountAmount": "3.00",
+      "finalAmount": "27.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T17:59:00.990Z",
+      "totalPrice": 30
+    },
+    "-O2VmPrKLEg4kAxYSrUU": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discountAmount": "3.00",
+      "finalAmount": "27.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T18:10:32.022Z",
+      "totalPrice": 30
+    },
+    "-O2VnQ5cyjnDmZIIg-FI": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discountAmount": "3.00",
+      "finalAmount": "27.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T18:14:55.144Z",
+      "totalPrice": 30
+    },
+    "-O2Vq4XetlbefUZ65Hiu": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discountAmount": "112.00",
+      "finalAmount": "1008.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 60,
+          "quantity": 2
+        },
+        {
+          "barcode": "234567890123",
+          "name": "Cat Food",
+          "price": 500,
+          "quantity": 2
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T18:26:33.258Z",
+      "totalPrice": 1120
+    },
+    "-O2Vr6yCmxhg9lBS_Ph0": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Gangadhar",
+      "discountAmount": "9.00",
+      "finalAmount": "21.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T18:31:05.357Z",
+      "totalPrice": 30
+    },
+    "-O2VrqylxIFLkmsQIFO9": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Gangadhar",
+      "discountAmount": "3.00",
+      "finalAmount": "27.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "purchaseDate": "2024-07-23T18:34:17.905Z",
+      "totalPrice": 30
+    },
+    "-O2VwtZ_yZ-mZM5pV9kY": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discount": "44.00",
+      "finalAmount": "176.00",
+      "items": [
+        {
+          "barcode": "456789012345",
+          "name": "Bird Seed",
+          "price": 100,
+          "quantity": 5
+        },
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 120,
+          "quantity": 4
+        }
+      ],
+      "paymentMethod": "cash",
+      "timestamp": 1721760980532,
+      "totalPrice": "220.00"
+    },
+    "-O2VxwR_7i0CKFEoXZLy": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discount": "24.00",
+      "finalAmount": "216.00",
+      "items": [
+        {
+          "barcode": "456789012345",
+          "name": "Bird Seed",
+          "price": 120,
+          "quantity": 6
+        },
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 120,
+          "quantity": 4
+        }
+      ],
+      "paymentMethod": "cash",
+      "timestamp": 1721761254465,
+      "totalPrice": "240.00"
+    },
+    "-O2Vyia6SQYTBkP1_5X_": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Gangadhar",
+      "discount": "30.00",
+      "finalAmount": "170.00",
+      "items": [
+        {
+          "barcode": "456789012345",
+          "name": "Bird Seed",
+          "price": 80,
+          "quantity": 4
+        },
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 120,
+          "quantity": 4
+        }
+      ],
+      "paymentMethod": "cash",
+      "timestamp": 1721761459843,
+      "totalPrice": "200.00"
+    },
+    "-O2Vz0UZ9cJ4vCK7fBWY": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discount": "0.00",
+      "finalAmount": "590.00",
+      "items": [
+        {
+          "barcode": "456789012345",
+          "name": "Bird Seed",
+          "price": 80,
+          "quantity": 4
+        },
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 60,
+          "quantity": 2
+        },
+        {
+          "barcode": "123456789012",
+          "name": "Dog Food",
+          "price": 450,
+          "quantity": 3
+        }
+      ],
+      "paymentMethod": "card",
+      "timestamp": 1721761537292,
+      "totalPrice": "590.00"
+    },
+    "-O2ZN09NC7yzddAycRTt": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Siddhesh ",
+      "discount": "12.00",
+      "finalAmount": "48.00",
+      "items": [
+        {
+          "barcode": "456789012345",
+          "name": "Bird Seed",
+          "price": 60,
+          "quantity": 3
+        }
+      ],
+      "paymentMethod": "cash",
+      "timestamp": 1721818421410,
+      "totalPrice": "60.00"
+    },
+    "-O2a-ZzHPUS4cphJWj_6": {
+      "customerEmail": "desalehimanshu11@gmail.com",
+      "customerName": "Himanshu Desale ",
+      "discount": "0.00",
+      "finalAmount": "0.00",
+      "paymentMethod": "upi",
+      "timestamp": 1721845829654,
+      "totalPrice": "0.00"
+    },
+    "-O2a0eVmYr8Ta5c-oMLb": {
+      "customerEmail": "desalehimanshu11@gmail.com",
+      "customerName": "Himanshu Desale ",
+      "discount": "0.00",
+      "finalAmount": "0.00",
+      "paymentMethod": "upi",
+      "timestamp": 1721846113692,
+      "totalPrice": "0.00"
+    },
+    "-O2a1C5FIz_LnB_zdS3i": {
+      "customerEmail": "desalehimanshu11@gmail.com",
+      "customerName": "Himanshu Desale ",
+      "discount": "25.00",
+      "finalAmount": "225.00",
+      "items": [
+        {
+          "barcode": "234567890123",
+          "name": "Cat Food",
+          "price": 250,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "timestamp": 1721846253419,
+      "totalPrice": "250.00"
+    },
+    "-O2a6_WDWNJxWee84I4F": {
+      "customerEmail": "sid@gmail.com",
+      "customerName": "Gangadhar",
+      "discount": "0.00",
+      "finalAmount": "30.00",
+      "items": [
+        {
+          "barcode": "345678901234",
+          "name": "Fish Food",
+          "price": 30,
+          "quantity": 1
+        }
+      ],
+      "paymentMethod": "cash",
+      "timestamp": 1721847667262,
+      "totalPrice": "30.00"
+    }
+  }
+}
